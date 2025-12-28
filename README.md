@@ -1,6 +1,20 @@
 # 💫 About Me:
-I am a Full stack Web Developer and App Developer <br>Currently im studing in Jaypee University Of Engineering and Technology 
+Hi, I’m Suraj 👨‍💻
+A Web & App Developer and AI Prompt Engineer passionate about building intelligent, scalable, and user-centric digital products.
 
+I develop modern web applications, mobile apps, and AI-powered solutions using technologies like React, Node.js, Express, MongoDB, and cross-platform app tools. I also specialize in AI prompt engineering, crafting effective prompts to power chatbots, automation workflows, content generation, and decision-support systems.
+
+My work focuses on:
+
+🌐 Full-stack Web Development
+
+📱 Cross-platform App Development
+
+🤖 AI Prompt Engineering & Automation
+
+🧠 Integrating AI APIs into real-world apps
+
+🎨 Clean UI/UX & performance optimization
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/t_suraj21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-yadav-749124290/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://in.pinterest.com/surajyadav2121115/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:surajyadav2121115@gmail.com) 
